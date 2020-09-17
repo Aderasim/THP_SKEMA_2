@@ -1,0 +1,15 @@
+head
+{
+    line-height: 1.2 ; /*"headers should be tighter" ? */
+}
+body
+{
+    line-height: 1.4 ;
+    font-size: 20px ;
+    background-color: #eeeeee;
+}
+html
+{
+    margin: auto;
+    max-width: 80ch;
+}
